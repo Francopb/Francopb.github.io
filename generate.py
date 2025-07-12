@@ -134,6 +134,28 @@ def main():
         f"{DOCS_DIR}/publications/index.md"
     )
 
+    # Load mkdocs.yml
+    with open("mkdocs_base.yml", "r", encoding="utf-8") as f:
+        config = yaml.safe_load(f)
+
+    project_files = []
+    for project in project_list:
+        print(project["title"])
+        # print(project["id"])
+        project_files.append({project["title"]: f"projects/{project['id']}.md"})
+
+    # Find and replace the Projects section
+    for i, item in enumerate(config["nav"]):
+        if isinstance(item, dict) and "Projects" in item:
+            # Replace existing projects list
+            config["nav"][i] = {
+                "Projects": [{"Overview": "projects/index.md"}] + project_files
+            }
+            break
+
+    with open("mkdocs.yml", "w", encoding="utf-8") as f:
+        yaml.dump(config, f, sort_keys=False, allow_unicode=True)
+
 
 if __name__ == "__main__":
     main()

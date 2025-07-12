@@ -1,21 +1,18 @@
 site_name: Dr. Franco N Piñan Basualdo
-# theme:
-#   name: material
-
 theme:
   name: material
   logo: assets/icon.png
-  # logo: assets/logo.png  # Your logo image
   favicon: assets/favicon.ico
-  # features:
-  #   - navigation.tabs
-  #   - navigation.top 
-
 extra:
   assets_dir: assets
-
 nav:
-  - Home: index.md
-  - Projects: projects/index.md
-  - Publications & Presentations: publications/index.md
-  - Contact: contact.md
+- Home: index.md
+- Projects:
+  - Overview: projects/index.md
+  - Collective (micro)robotics: projects/collective.md
+  - Soft robotics: projects/softrob.md
+  - Magnetic micromanipulation: projects/magnetic.md
+  - Magneto-capillary systems: projects/magnetocap.md
+  - Thermocapillary manipulation: projects/thermocap.md
+- Publications & Presentations: publications/index.md
+- Contact: contact.md
