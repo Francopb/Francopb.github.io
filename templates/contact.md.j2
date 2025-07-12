@@ -1,0 +1,20 @@
+# Contact
+
+- **Email:** [{{ contact.email }}](mailto:{{ contact.email }})
+- **Office:** {{ contact.office }}
+- **Phone:** {{ contact.phone }}
+
+{{ "\n" }}
+
+{%- if contact.github %}
+- **GitHub:** [{{ contact.github }}](https://github.com/{{ contact.github }})
+{%- endif %}
+{%- if contact.linkedin %}
+- **LinkedIn:** [{{ contact.linkedin }}](https://www.linkedin.com/in/{{ contact.linkedin }})
+{%- endif %}
+{%- if contact.researchgate %}
+- **ResearchGate:** [{{ contact.researchgate }}](https://www.researchgate.net/profile/{{ contact.researchgate }})
+{%- endif %}
+{%- if contact.twitter %}
+- **Twitter:** [{{ contact.twitter }}](https://twitter.com/{{ contact.twitter | replace('@', '') }})
+{%- endif %}

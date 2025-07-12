@@ -1,0 +1,13 @@
+id: thermocap
+title: Thermocapillary manipulation
+description: >
+  This project uses laser-induced thermocapillary flows to manipulate and assemble microscopic particles at the air-water interface, studying both control strategies and the underlying fluid dynamics.
+long_description: >
+  This project explores the use of laser-induced thermocapillary flows for the manipulation and directed assembly of microscopic particles at the air-water interface.
+  By locally heating the surface with focused laser beam controllable fluid flows emerge, enabling non-contact transport of floating objects.
+  The research investigates both single- and multi-particle manipulation, including the coordinated actuation of multiple laser spots to achieve parallel control.
+  In addition to manipulation strategies, the project also focuses on characterizing and understanding the generated flow fields to better exploit their dynamics for precise control and assembly.
+image: thermocap.png
+status: inactive
+topics:
+  - microrob

@@ -1,0 +1,21 @@
+site_name: Dr. Franco N Piñan Basualdo
+# theme:
+#   name: material
+
+theme:
+  name: material
+  logo: assets/icon.png
+  # logo: assets/logo.png  # Your logo image
+  favicon: assets/favicon.ico
+  # features:
+  #   - navigation.tabs
+  #   - navigation.top 
+
+extra:
+  assets_dir: assets
+
+nav:
+  - Home: index.md
+  - Projects: projects/index.md
+  - Publications & Presentations: publications/index.md
+  - Contact: contact.md

@@ -1,0 +1,67 @@
+name: Dr. Franco N Piñan Basualdo
+title: Postdoctoral researcher
+institution: Robotics, Automation and Mechatronics (RAM), KU Leuven
+bio: >
+  Franco N. Piñan Basualdo received his M.Sc. in Mechanical Engineering from Instituto Balseiro, Universidad Nacional de Cuyo, Argentina, in 2018. 
+  He earned a joint Ph.D. in Engineering Sciences and Technology from Université Libre de Bruxelles, Belgium, and in Automation from Université de Bourgogne Franche-Comté, France, in 2022. 
+  As part of his doctoral training, he was a visiting researcher at the Physical Intelligence Department of the Max Planck Institute for Intelligent Systems in Stuttgart, Germany, in 2021.
+  He was a postdoctoral researcher at the Surgical Robotics Lab at University of Twente, Enschede, The Netherlands from 2022 to 2024
+  He is currently a postdoctoral researcher in the Soft Robotics Group at Katholieke Universiteit Leuven, Belgium. 
+  His research focuses on small-scale robotics, developing non-contact actuation methods, control strategies, and collective microrobotic systems that leverage both inter-agent and environmental interactions.
+
+research_interests:
+  - name: Microrobotics
+    description: Development of small-scale robotic agents using non-contact actuation strategies for manipulation and control.
+  - name: Collective systems
+    description: Study of multi-agent coordination through inter-agent interactions and emergent collective behavior.
+  - name: Physical Intelligence
+    description: Leveraging physical interactions between robotic agents and their environment to enable efficient, adaptive behavior and minimal control architectures.
+
+
+experience:
+  - position: Postdoctoral researcher
+    institutions:
+      - name:  Soft Robotics Group, Katholieke Universiteit Leuven
+        url: https://softroboticsgroup.com/
+    location: Leuven, Belgium
+    years: 2024-present
+  - position: Postdoctoral researcher
+    institutions:
+      - name: Surgical Robotics Lab, University of Twente
+        url: https://surgicalroboticslab.nl/
+    location: Enschede, The Netherlands
+    years: 2022-2024
+  - position: Visiting researcher
+    institutions:
+      - name: Physical Intelligence Department, Max Planck Institute for Intelligent Systems
+        url: https://is.mpg.de/pi
+    location: Stuttgart, Germany
+    years: "2021"
+  - position: Doctoral candidate
+    institutions:
+      - name: TIPs Laboratory, Université Libre de Bruxelles
+        url: https://tips-ulb.be/
+      - name: AS2M Department, FEMTO-ST Institute
+        url: https://www.femto-st.fr/en/
+    location: Brussels, Belgium
+    years: 2018-2022
+  - position: Intern
+    institutions:
+      - name: Science et ingénierie des matériaux et des procédés, Institut Polytechnique de Grenoble
+        url: https://simap.grenoble-inp.fr/en
+    location: Grenoble, France
+    years: "2018"
+  - position: Mechanical engineering student
+    institutions:
+      - name: Instituto Balseiro
+        url: https://www.ib.edu.ar/
+    location: San Carlos de Bariloche, Argentina
+    years: 2014-2017
+
+contact:
+  email: franconicolas.pinanbasualdo@kuleuven.be
+  office: Room 03.517, Nanocenter, Celestijnenlaan 200J, 3000 Leuven, Belgium
+  phone:  +32 16 32 30 37
+  linkedin: franco-piñan-basualdo-8244ab162
+  github: Francopb
+  researchgate: Franco_Pinan_Basualdo

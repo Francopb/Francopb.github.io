@@ -1,0 +1,10 @@
+# {{ topic.title }}
+
+{{ topic.long_description }}
+
+{% if related_proj %}
+**Projects:**  
+{% for proj in related_proj %}
+- [{{ proj.title }}](../projects/{{ proj.id }}.md)
+{% endfor %}
+{% endif %}

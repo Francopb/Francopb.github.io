@@ -1,0 +1,15 @@
+id: magnetocap
+title: Magneto-capillary systems
+description: >
+    This project studies magnetic particles at the air-water interface, exploring their self-assembly through magneto-capillary interactions and dynamic collective behaviors.
+long_description: >
+  This project investigates magneto-capillary systems composed of magnetic particles at the air-water interface.
+  These systems combine magnetic and capillary interactions to produce rich and tunable behaviors.
+  One line of research focuses on equilibrium systems, where the balance between magnetic repulsion and capillary attraction leads to the self-assembly of ordered, two-dimensional structures.
+  Another line addresses out-of-equilibrium systems, in which time-varying magnetic fields drive particles into dynamic states that exhibit collective motion and emergent behaviors.
+  These studies provide insights into fundamental self-organization principles and open avenues for designing active matter platforms.
+image: magnetocap.png
+status: inactive
+topics:
+  - microrob
+  - collectiverob

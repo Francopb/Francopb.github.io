@@ -1,0 +1,10 @@
+id: 2023_RAL
+title: Solving the non-linear motion in a micromanipulation system powered by thermocapillary flows
+authors: [Franco N Piñan Basualdo, Aude Bolopion, Michaël Gauthier, Pierre Lambert]
+journal: IEEE Robotics and Automation Letters
+volume: 8
+number: 8
+year: 2023
+doi: 10.1109/LRA.2023.3288378
+projects:
+  - thermocap

@@ -1,0 +1,11 @@
+id: 2022_RAL
+title: Control and transport of passive particles using self-organized spinning micro-disks
+authors: [Franco N Piñan Basualdo, Gaurav Gardi, Wendong Wang, Sinan O Demir, Aude Bolopion, Michaël Gauthier, Pierre Lambert, Metin Sitti]
+journal: IEEE Robotics and Automation Letters
+volume: 7
+number: 2
+year: 2022
+doi: 10.1109/LRA.2022.3143306
+projects:
+  - collective
+  - magnetocap

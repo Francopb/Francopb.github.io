@@ -1,0 +1,10 @@
+id: 2023_TMECH
+title: Pose control of millimeter-scale objects in a laser-powered thermocapillary manipulation platform
+authors: [Franco N Piñan Basualdo, Olivier Stephan, Aude Bolopion, Michaël Gauthier, Pierre Lambert]
+journal: IEEE/ASME Transactions on Mechatronics
+volume: 29
+number: 1
+year: 2023
+doi: 10.1109/TMECH.2023.3274371 
+projects: 
+  - thermocap

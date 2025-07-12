@@ -1,0 +1,14 @@
+id: softrob
+title: Soft robotics
+description: >
+  This project leverages nonlinear compliant mechanisms to embed physical intelligence in soft robots, focusing on mechanical interactions and system dynamics to enable coorfinated task execution.
+long_description: >
+  This project explores the use of nonlinear compliant mechanisms, such as inflatables, to embed physical intelligence into soft robotic systems.
+  By harnessing the intrinsic mechanical properties of these elements, the research aims to reduce the need for complex control.
+  The work focuses on two main directions: first, studying and leveraging the interactions between nonlinear elements to achieve sequencing and computation;
+  and second, exploiting the system's dynamics to enable coordinated task execution with minimal external inputs.
+  This approach supports the development of autonomous, adaptable, and efficient soft robotic platforms.
+image: soft.png
+status: active
+topics:
+  - physicalint

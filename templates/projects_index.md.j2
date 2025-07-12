@@ -1,0 +1,15 @@
+# Projects
+
+{%- if active_projects %}
+## Active Projects
+{% for project in active_projects %}
+- [{{ project.title }}](./{{ project.id }}): {{ project.description }}
+{% endfor %}
+{%- endif %}
+
+{%- if inactive_projects %}
+## Past Projects
+{% for project in inactive_projects %}
+- [{{ project.title }}](./{{ project.id }}): {{ project.description }}
+{% endfor %}
+{%- endif %}

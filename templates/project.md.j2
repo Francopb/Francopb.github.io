@@ -1,0 +1,38 @@
+# {{ project.title }} {% if project.status == "inactive" %}(Inactive){% endif %}
+
+**Description:** {{ project.long_description or project.description }}
+
+{%- if project.image %}
+<img src="/assets/{{ project.image }}" alt="{{ project.title }} image" style="width: 100%; height: auto; display: block; margin: 1em 0; border-radius: 12px;">
+{%- endif %}
+
+
+{%- if related_topics %}
+**Topics:**  
+{% for topic in related_topics %}
+- [{{ topic.title }}](../topics/{{ topic.id }}.md)
+{% endfor %}
+{%- endif %}
+
+{%- if related_pubs %}
+## Publications
+{% for pub in related_pubs %}
+- {{ pub.authors | join(", ") }}. "{{ pub.title }}." *{{ pub.journal }}*{% if pub.volume %} {{ pub.volume }}{% if pub.number %}.{{ pub.number }}{% endif %}{% endif %} ({{ pub.year }}){% if pub.doi %}. [doi.org/{{ pub.doi }}](https://doi.org/{{ pub.doi }}){% endif %}.
+{% endfor %}
+{%- endif %}
+
+{%- if related_confs %}
+## Presentations
+{% for conf in related_confs %}
+- {%- if conf.authors %} {{ conf.authors | join(", ") }}. {% endif -%}
+{%- if conf.title %} "{{ conf.title }}." {% endif -%}
+*{{ conf.conference }}*, {{ conf.location }} ({{ conf.year }}){%- if conf.type %} - _{{ conf.type | capitalize }}_{% endif %}.
+{% endfor %}
+{%- endif %}
+
+---
+
+<div style="display: flex; justify-content: space-between;">
+  <a href="/projects/{{ prev_project.id }}"> {{ prev_project.title }}</a>
+  <a href="/projects/{{ next_project.id }}">{{ next_project.title }} </a>
+</div>

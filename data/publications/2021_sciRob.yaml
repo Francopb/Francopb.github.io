@@ -1,0 +1,10 @@
+id: 2021_sciRob
+title: A microrobotic platform actuated by thermocapillary flows for manipulation at the air-water interface
+authors: [Franco N Piñan Basualdo, Aude Bolopion, Michaël Gauthier, Pierre Lambert]
+journal: Science Robotics
+volume: 6
+number: 52
+year: 2021
+doi: 10.1126/scirobotics.abd3557
+projects:
+  - thermocap

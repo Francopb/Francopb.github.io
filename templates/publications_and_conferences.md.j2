@@ -1,0 +1,13 @@
+## Publications
+
+{% for pub in publications %}
+- {{ pub.authors | join(", ") }}. "{{ pub.title }}." *{{ pub.journal }}*{% if pub.volume %} {{ pub.volume }}{% if pub.number %}.{{ pub.number }}{% endif %}{% endif %} ({{ pub.year }}){% if pub.doi %}. [doi.org/{{ pub.doi }}](https://doi.org/{{ pub.doi }}){% endif %}.
+{% endfor %}
+
+## Presentations
+
+{% for conf in conferences %}
+- {%- if conf.authors %} {{ conf.authors | join(", ") }}. {% endif -%}
+{%- if conf.title %} "{{ conf.title }}." {% endif -%}
+*{{ conf.conference }}*, {{ conf.location }} ({{ conf.year }}){%- if conf.type %} - _{{ conf.type | capitalize }}_{% endif %}.
+{% endfor %}

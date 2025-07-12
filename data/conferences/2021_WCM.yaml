@@ -1,0 +1,8 @@
+id: 2021_WCM
+type: Organization
+conference: Workshop on capillary micromanipulation (WMC 2021)
+authors: [Franco N Piñan Basualdo, Aude Bolopion, Michaël Gauthier, Pierre Lambert]
+year: 2021
+location: Online
+projects:
+  - thermocap

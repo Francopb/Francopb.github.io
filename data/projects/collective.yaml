@@ -1,0 +1,13 @@
+id: collective
+title: Collective (micro)robotics
+description: >
+  This project studies multi-agent systems and how their interactions with the environment and each other lead to emergent collective behaviors for manipulation and assembly.
+long_description: >
+  This project investigates systems composed of multiple agents and how their interactions give rise to collective behaviors.
+  We explore mechanisms of coordination and control within these systems, aiming to understand and engineer emergent properties that cannot be achieved by individual agents.
+  These emergent behaviors are exploited for advanced manipulation and the assembly of structures. In addition to inter-agent dynamics, the project also studies how collective systems interact with their surrounding environment, including fluidic, magnetic, and surface-mediated influences.
+image: collab.png
+status: active
+topics:
+  - microrob
+  - collectiverob

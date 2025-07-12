@@ -1,0 +1,23 @@
+# {{ name }}
+
+**{{ title }}, {{ institution }}**
+
+{{ bio }}
+
+---
+
+## Research interests
+
+{% for interest in research_interests %}
+- **{{ interest.name }}:** {{ interest.description }}
+{% endfor %}
+
+See [projects](./projects/) for more details.
+
+---
+
+## Experience
+
+{% for job in experience %}
+- **{{ job.position }}**, {% for inst in job.institutions %}[{{ inst.name }}]({{ inst.url }}){% if not loop.last %}, {% endif %}{%- endfor %}, {{ job.location }} ({{ job.years }})
+{% endfor %}
