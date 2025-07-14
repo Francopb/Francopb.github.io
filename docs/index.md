@@ -27,14 +27,14 @@ See [projects](./projects/) for more details.
 ## Experience
 
 
-- **Postdoctoral researcher**, [Soft Robotics Group, Katholieke Universiteit Leuven](https://softroboticsgroup.com/), Leuven, Belgium (2024-present)
+- **Postdoctoral researcher**, [Soft Robotics Group](https://softroboticsgroup.com/), [Katholieke Universiteit Leuven](https://www.kuleuven.be/kuleuven/), Leuven, Belgium (2024-present)
 
-- **Postdoctoral researcher**, [Surgical Robotics Lab, University of Twente](https://surgicalroboticslab.nl/), Enschede, The Netherlands (2022-2024)
+- **Postdoctoral researcher**, [Surgical Robotics Lab](https://surgicalroboticslab.nl/), [University of Twente](https://www.utwente.nl/en/), Enschede, The Netherlands (2022-2024)
 
-- **Visiting researcher**, [Physical Intelligence Department, Max Planck Institute for Intelligent Systems](https://is.mpg.de/pi), Stuttgart, Germany (2021)
+- **Visiting researcher**, [Physical Intelligence Department](https://is.mpg.de/pi), [Max Planck Institute for Intelligent Systems](https://is.mpg.de/), Stuttgart, Germany (2021)
 
-- **Doctoral candidate**, [TIPs Laboratory, Université Libre de Bruxelles](https://tips-ulb.be/), [AS2M Department, FEMTO-ST Institute](https://www.femto-st.fr/en/), Brussels, Belgium (2018-2022)
+- **Doctoral candidate**, [TIPs Laboratory](https://tips-ulb.be/), [Université Libre de Bruxelles](https://www.ulb.be/); [FEMTO-ST Institute](https://www.femto-st.fr/en), [Université Bourgogne-Franche-Comté](https://www.ubfc.fr/en/), Brussels, Belgium (2018-2022)
 
-- **Intern**, [Science et ingénierie des matériaux et des procédés, Institut Polytechnique de Grenoble](https://simap.grenoble-inp.fr/en), Grenoble, France (2018)
+- **Intern**, [Science et ingénierie des matériaux et des procédés](https://simap.grenoble-inp.fr/en), [Institut Polytechnique de Grenoble](https://www.grenoble-inp.fr/), Grenoble, France (2018)
 
 - **Mechanical engineering student**, [Instituto Balseiro](https://www.ib.edu.ar/), San Carlos de Bariloche, Argentina (2014-2017)

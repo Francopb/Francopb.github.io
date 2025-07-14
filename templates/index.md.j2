@@ -22,5 +22,5 @@ See [projects](./projects/) for more details.
 ## Experience
 
 {% for job in experience %}
-- **{{ job.position }}**, {% for inst in job.institutions %}[{{ inst.name }}]({{ inst.url }}){% if not loop.last %}, {% endif %}{%- endfor %}, {{ job.location }} ({{ job.years }})
+- **{{ job.position }}**, {% for inst_set in job.institutions %}{% for inst in inst_set %}{% if inst.url %}[{{ inst.name }}]({{ inst.url }}){% else %}{{ inst.name }}{% endif %}{% if not loop.last %}, {% endif %}{%- endfor %}{% if not loop.last %}; {% endif %}{%- endfor %}, {{ job.location }} ({{ job.years }})
 {% endfor %}

@@ -21,40 +21,52 @@ research_interests:
 experience:
   - position: Postdoctoral researcher
     institutions:
-      - name:  Soft Robotics Group, Katholieke Universiteit Leuven
-        url: https://softroboticsgroup.com/
+      - - name:  Soft Robotics Group
+          url: https://softroboticsgroup.com/
+        - name: Katholieke Universiteit Leuven
+          url: https://www.kuleuven.be/kuleuven/
     location: Leuven, Belgium
     years: 2024-present
   - position: Postdoctoral researcher
     institutions:
-      - name: Surgical Robotics Lab, University of Twente
-        url: https://surgicalroboticslab.nl/
+      - - name: Surgical Robotics Lab
+          url: https://surgicalroboticslab.nl/
+        - name: University of Twente
+          url: https://www.utwente.nl/en/
     location: Enschede, The Netherlands
     years: 2022-2024
   - position: Visiting researcher
     institutions:
-      - name: Physical Intelligence Department, Max Planck Institute for Intelligent Systems
-        url: https://is.mpg.de/pi
+      - - name: Physical Intelligence Department
+          url: https://is.mpg.de/pi
+        - name: Max Planck Institute for Intelligent Systems
+          url: https://is.mpg.de/
     location: Stuttgart, Germany
     years: "2021"
   - position: Doctoral candidate
     institutions:
-      - name: TIPs Laboratory, Université Libre de Bruxelles
-        url: https://tips-ulb.be/
-      - name: AS2M Department, FEMTO-ST Institute
-        url: https://www.femto-st.fr/en/
+      - - name: TIPs Laboratory
+          url: https://tips-ulb.be/
+        - name: Université Libre de Bruxelles
+          url: https://www.ulb.be/
+      - - name: FEMTO-ST Institute
+          url: https://www.femto-st.fr/en
+        - name: Université Bourgogne-Franche-Comté
+          url: https://www.ubfc.fr/en/
     location: Brussels, Belgium
     years: 2018-2022
   - position: Intern
     institutions:
-      - name: Science et ingénierie des matériaux et des procédés, Institut Polytechnique de Grenoble
-        url: https://simap.grenoble-inp.fr/en
+      - - name: Science et ingénierie des matériaux et des procédés
+          url: https://simap.grenoble-inp.fr/en
+        - name: Institut Polytechnique de Grenoble
+          url: https://www.grenoble-inp.fr/
     location: Grenoble, France
     years: "2018"
   - position: Mechanical engineering student
     institutions:
-      - name: Instituto Balseiro
-        url: https://www.ib.edu.ar/
+      - - name: Instituto Balseiro
+          url: https://www.ib.edu.ar/
     location: San Carlos de Bariloche, Argentina
     years: 2014-2017
 
