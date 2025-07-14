@@ -7,5 +7,5 @@
 
 
 - **GitHub:** [Francopb](https://github.com/Francopb)
-- **LinkedIn:** [franco-piñan-basualdo-8244ab162](https://www.linkedin.com/in/franco-piñan-basualdo-8244ab162)
+- **LinkedIn:** [franco-pinan-basualdo](https://www.linkedin.com/in/franco-pinan-basualdo)
 - **ResearchGate:** [Franco_Pinan_Basualdo](https://www.researchgate.net/profile/Franco_Pinan_Basualdo)
