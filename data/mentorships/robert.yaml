@@ -1,0 +1,10 @@
+id: robert
+title: Development and comparison of closed- and open-loop control system for magnetic actuation of microrobotics
+student: Robert van de Weerd
+type: Bachelor thesis
+universities:
+  - name: University of Twente
+    url: https://www.utwente.nl/
+year: 2023
+projects: 
+  - magnetic

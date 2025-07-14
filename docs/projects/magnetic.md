@@ -21,6 +21,16 @@
 
 - Yuxin Jin, Franco N Pinan Basualdo, Antonio Marino, Yongfeng Mei, Paolo Robuffo Giordano, Claudio Pacchierotti, Sarthak Misra.  "Graph Neural Network-Based Real-Time 3D Tracking for Micro-Agent Control." *International Conference on Manipulation, Automation and Robotics at Small Scales*, Delft, The Netherlands (2024) - _Presentation_.
 
+## Mentorships
+
+- Corrado Verde. Master thesis: "Design, planning and control of an untethered magnetic microrobot for the autonomous sorting of passive beads in 3D space." [University of Twente](https://www.utwente.nl/), [University of Naples Federico II](https://www.international.unina.it/) (2024).
+
+- Sabrina Visconti. Master thesis: "Exploiting untethered magnetic microrobots for freeform 3D fluidic printing in the controlled vascularization." [University of Twente](https://www.utwente.nl/), [University of Naples Federico II](https://www.international.unina.it/) (2024).
+
+- Eléa Carcasset. Internship: "Assistant Engineer commissioned to evaluate the impact of the cross-talks in magnetic actuation systems of multiple-coils." [University of Twente](https://www.utwente.nl/), [Polytech Paris-Saclay](https://www.polytech.universite-paris-saclay.fr/) (2023).
+
+- Robert van de Weerd. Bachelor thesis: "Development and comparison of closed- and open-loop control system for magnetic actuation of microrobotics." [University of Twente](https://www.utwente.nl/) (2023).
+
 
 ---
 

@@ -46,6 +46,7 @@ def main():
     projects = load_yaml(f"{DATA_DIR}/projects")
     publications = load_yaml(f"{DATA_DIR}/publications")
     conferences = load_yaml(f"{DATA_DIR}/conferences")
+    mentorships = load_yaml(f"{DATA_DIR}/mentorships")
 
     # Generate project index page
     active_projects = []
@@ -89,6 +90,12 @@ def main():
         ]
         related_confs.sort(key=lambda x: x.get("year", 0), reverse=True)
 
+        related_ments = [
+            ment for ment in mentorships.values() if project["id"] in ment.get("projects", [])
+        ]
+        related_ments.sort(key=lambda x: x.get("year", 0), reverse=True)
+        
+
         prev_project = project_list[(i - 1) % len(project_list)]
         next_project = project_list[(i + 1) % len(project_list)]
 
@@ -99,6 +106,7 @@ def main():
                 # "related_topics": related_topics,
                 "related_pubs": related_pubs,
                 "related_confs": related_confs,
+                "related_ments": related_ments,
                 "prev_project": prev_project,
                 "next_project": next_project,
             },
@@ -124,14 +132,16 @@ def main():
 
     sorted_pubs = sorted(publications.values(), key=lambda x: x.get("year", 0), reverse=True)
     sorted_confs = sorted(conferences.values(), key=lambda x: x.get("year", 0), reverse=True)
+    sorted_ments = sorted(mentorships.values(), key=lambda x: x.get("year", 0), reverse=True)
 
     render(
         "publications_and_conferences.md.j2",
         {
             "publications": sorted_pubs,
             "conferences": sorted_confs,
+            "mentorships": sorted_ments,
         },
-        f"{DOCS_DIR}/publications/index.md"
+        f"{DOCS_DIR}/output/index.md"
     )
 
     # Load mkdocs.yml

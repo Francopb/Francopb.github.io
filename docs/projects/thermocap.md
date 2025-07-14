@@ -25,6 +25,10 @@
 
 - Franco N Piñan Basualdo, Aude Bolopion, Michaël Gauthier, Pierre Lambert. *Workshop on capillary micromanipulation (WMC 2021)*, Online (2021) - _Organization_.
 
+## Mentorships
+
+- Gianluca Carbone. Master thesis: "Geometry optimization for thermocapillary micromanipulation of 3D printed particles using NanoScribe or FemtoPrint." [Université Libre de Bruxelles](https://www.ulb.be/) (2021).
+
 
 ---
 

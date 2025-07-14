@@ -17,5 +17,5 @@ extra:
 nav:
   - Home: index.md
   - Projects: projects/index.md
-  - Publications & Presentations: publications/index.md
+  - Output: output/index.md
   - Contact: contact.md

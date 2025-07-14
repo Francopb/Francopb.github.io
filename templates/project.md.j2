@@ -30,6 +30,13 @@
 {% endfor %}
 {%- endif %}
 
+{%- if related_ments %}
+## Mentorships
+{% for ment in related_ments %}
+- {{ ment.student }}. {{ ment.type }}: "{{ ment.title }}." {% for univ in ment.universities %}[{{ univ.name }}]({{ univ.url }}){% if not loop.last %}, {% endif %}{% endfor %} ({{ ment.year }}).
+{% endfor %}
+{%- endif %}
+
 ---
 
 <div style="display: flex; justify-content: space-between;">

@@ -1,0 +1,12 @@
+id: corrado
+title: Design, planning and control of an untethered magnetic microrobot for the autonomous sorting of passive beads in 3D space
+student: Corrado Verde
+type: Master thesis
+universities:
+  - name: University of Twente
+    url: https://www.utwente.nl/
+  - name: University of Naples Federico II
+    url: https://www.international.unina.it/
+year: 2024
+projects: 
+  - magnetic

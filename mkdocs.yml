@@ -1,4 +1,4 @@
-site_name: "Dr. Franco N Piñan Basualdo"
+site_name: Dr. Franco N Piñan Basualdo
 theme:
   name: material
   logo: assets/icon.png
@@ -14,5 +14,5 @@ nav:
   - Magnetic micromanipulation: projects/magnetic.md
   - Magneto-capillary systems: projects/magnetocap.md
   - Thermocapillary manipulation: projects/thermocap.md
-- Publications & Presentations: publications/index.md
+- Output: output/index.md
 - Contact: contact.md

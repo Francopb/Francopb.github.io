@@ -11,3 +11,9 @@
 {%- if conf.title %} "{{ conf.title }}." {% endif -%}
 *{{ conf.conference }}*, {{ conf.location }} ({{ conf.year }}){%- if conf.type %} - _{{ conf.type | capitalize }}_{% endif %}.
 {% endfor %}
+
+## Mentorships
+
+{% for ment in mentorships %}
+- {{ ment.student }}. {{ ment.type }}: "{{ ment.title }}." {% for univ in ment.universities %}[{{ univ.name }}]({{ univ.url }}){% if not loop.last %}, {% endif %}{% endfor %} ({{ ment.year }}).
+{% endfor %}
