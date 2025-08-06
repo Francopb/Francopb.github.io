@@ -1,6 +1,8 @@
 ## Publications
 
 
+- Franco N Piñan Basualdo, Corrado Verde, Fanny Ficuciello, Sarthak Misra. "Autonomous Sorting of Beads in a 3D Environment Using Levitating Magnetic Microrobots." *Advanced Intelligent Systems* (2025). [doi.org/10.1002/aisy.202500200](https://doi.org/10.1002/aisy.202500200).
+
 - Franco N Piñan Basualdo, Vasileios D Trikalitis, Sabrina Visconti, Fanny Ficuciello, Constantinos Goulas, Jeroen Rouwkema, Sarthak Misra. "Magnetic Nozzle-Free Embedded 3D (MagNoFE3D) Printing." *Advanced Materials Technologies* 10.5 (2025). [doi.org/10.1002/admt.202401097](https://doi.org/10.1002/admt.202401097).
 
 - Franco N Pinan Basualdo, Robert GJ van de Weerd, Sarthak Misra. "Tunable magnetic trap: Using passive elements to control magnetic microrobots." *IEEE Robotics and Automation Letters* 9.2 (2024). [doi.org/10.1109/LRA.2024.3349810](https://doi.org/10.1109/LRA.2024.3349810).
