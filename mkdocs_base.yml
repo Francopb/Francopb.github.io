@@ -18,4 +18,5 @@ nav:
   - Home: index.md
   - Projects: projects/index.md
   - Output: output/index.md
+  - Teaching: teaching/index.md
   - Contact: contact.md

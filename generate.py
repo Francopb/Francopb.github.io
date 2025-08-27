@@ -141,11 +141,19 @@ def main():
         {
             "publications": sorted_pubs,
             "conferences": sorted_confs,
-            "mentorships": sorted_ments,
-            "teaching": sorted_teaching,
         },
         f"{DOCS_DIR}/output/index.md"
     )
+
+    render(
+        "teaching.md.j2",
+        {
+            "mentorships": sorted_ments,
+            "teaching": sorted_teaching,
+        },
+        f"{DOCS_DIR}/teaching/index.md"
+    )
+
 
     # Load mkdocs.yml
     with open("mkdocs_base.yml", "r", encoding="utf-8") as f:

@@ -1,0 +1,11 @@
+## Mentorships
+
+{% for ment in mentorships %}
+- {{ ment.student }}. {{ ment.type }}: "{{ ment.title }}." {% for univ in ment.universities %}[{{ univ.name }}]({{ univ.url }}){% if not loop.last %}, {% endif %}{% endfor %} ({{ ment.year }}).
+{% endfor %}
+
+## Teaching
+
+{% for teach in teaching %}
+- {{ teach.role }}: "{{ teach.title }}." [{{ teach.university.name }}]({{ teach.university.url }}), ({{teach.start_year}}{%- if teach.end_year %} - {{teach.end_year}}{% endif %}).
+{% endfor %}
