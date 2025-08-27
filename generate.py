@@ -47,6 +47,7 @@ def main():
     publications = load_yaml(f"{DATA_DIR}/publications")
     conferences = load_yaml(f"{DATA_DIR}/conferences")
     mentorships = load_yaml(f"{DATA_DIR}/mentorships")
+    teaching = load_yaml(f"{DATA_DIR}/teaching")
 
     # Generate project index page
     active_projects = []
@@ -133,13 +134,15 @@ def main():
     sorted_pubs = sorted(publications.values(), key=lambda x: x.get("year", 0), reverse=True)
     sorted_confs = sorted(conferences.values(), key=lambda x: x.get("year", 0), reverse=True)
     sorted_ments = sorted(mentorships.values(), key=lambda x: x.get("year", 0), reverse=True)
+    sorted_teaching = sorted(teaching.values(), key=lambda x: x.get("start_year", 0), reverse=True)
 
     render(
-        "publications_and_conferences.md.j2",
+        "output.md.j2",
         {
             "publications": sorted_pubs,
             "conferences": sorted_confs,
             "mentorships": sorted_ments,
+            "teaching": sorted_teaching,
         },
         f"{DOCS_DIR}/output/index.md"
     )

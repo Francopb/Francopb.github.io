@@ -11,7 +11,7 @@
 
 - Juan J Huaroto, Franco N Piñan Basualdo, Dionne Lisa Roos Ariëns, Sarthak Misra. "Non-uniform magnetic fields for collective behavior of self-assembled magnetic pillars." *Swarm Intelligence* (2024). [doi.org/10.1007/s11721-024-00240-z](https://doi.org/10.1007/s11721-024-00240-z).
 
-- Marco Ferro, Franco N Piñan Basualdo, Paolo Robuffo Giordano, Sarthak Misra, Claudio Pacchierotti. "Experimental Evaluation of Haptic Shared Control for Multiple Electromagnetic Untethered Microrobots." *IEEE Transactions on Automation Science and Engineering* (2024). [doi.org/10.1109/TASE.2024.3477308](https://doi.org/10.1109/TASE.2024.3477308).
+- Marco Ferro, Franco N Piñan Basualdo, Paolo Robuffo Giordano, Sarthak Misra, Claudio Pacchierotti. "Experimental Evaluation of Haptic Shared Control for Multiple Electromagnetic Untethered Microrobots." *IEEE Transactions on Automation Science and Engineering* 22 (2024). [doi.org/10.1109/TASE.2024.3477308](https://doi.org/10.1109/TASE.2024.3477308).
 
 - Franco N Piñan Basualdo, Sarthak Misra. "Collaborative magnetic agents for 3d microrobotic grasping." *Advanced Intelligent Systems* 5.12 (2023). [doi.org/10.1002/aisy.202300365](https://doi.org/10.1002/aisy.202300365).
 
@@ -60,3 +60,13 @@
 - Robert van de Weerd. Bachelor thesis: "Development and comparison of closed- and open-loop control system for magnetic actuation of microrobotics." [University of Twente](https://www.utwente.nl/) (2023).
 
 - Gianluca Carbone. Master thesis: "Geometry optimization for thermocapillary micromanipulation of 3D printed particles using NanoScribe or FemtoPrint." [Université Libre de Bruxelles](https://www.ulb.be/) (2021).
+
+
+## Teaching
+
+
+- Invited lecturer: "Robotics for Medical Applications." [University of Twente](https://www.utwente.nl/), (2024).
+
+- Teaching assistant and co-organizer: "Soft Robotics ATHENS course." [Katholieke Universiteit Leuven](https://www.kuleuven.be/kuleuven/), (2024).
+
+- Teaching assistant: "Fluid Mechanics and Transfer Processes." [Université Libre de Bruxelles](https://www.ulb.be/), (2019 - 2022).
