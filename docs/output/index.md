@@ -1,6 +1,10 @@
 ## Publications
 
 
+- Katrien Stinissen, Franco N Piñan Basualdo, Benjamin Gorissen. "Interacting Parallel Fluidic Hysterons." *Advanced Science* (2026). [doi.org/10.1002/advs.76158](https://doi.org/10.1002/advs.76158).
+
+- Franco N Piñan Basualdo, Benjamin Gorissen. "Equilibrium and stability of coupled nonlinear energy-storing components." *Proceedings of the National Academy of Sciences* 123.30 (2026). [doi.org/10.1073/pnas.2608042123](https://doi.org/10.1073/pnas.2608042123).
+
 - Franco N Piñan Basualdo, Corrado Verde, Fanny Ficuciello, Sarthak Misra. "Autonomous Sorting of Beads in a 3D Environment Using Levitating Magnetic Microrobots." *Advanced Intelligent Systems* (2025). [doi.org/10.1002/aisy.202500200](https://doi.org/10.1002/aisy.202500200).
 
 - Franco N Piñan Basualdo, Vasileios D Trikalitis, Sabrina Visconti, Fanny Ficuciello, Constantinos Goulas, Jeroen Rouwkema, Sarthak Misra. "Magnetic Nozzle-Free Embedded 3D (MagNoFE3D) Printing." *Advanced Materials Technologies* 10.5 (2025). [doi.org/10.1002/admt.202401097](https://doi.org/10.1002/admt.202401097).
