@@ -1,7 +1,7 @@
 ## Mentorships
 
 
-- . Master thesis: "A Magnetically Actuated Bistable Gripper for Minimally Invasive Surgery." [Katholieke Universiteit Leuven](https://www.kuleuven.be/) (2026).
+- Yannick Pâquet. Master thesis: "A Magnetically Actuated Bistable Gripper for Minimally Invasive Surgery." [Katholieke Universiteit Leuven](https://www.kuleuven.be/) (2026).
 
 - Corrado Verde. Master thesis: "Design, planning and control of an untethered magnetic microrobot for the autonomous sorting of passive beads in 3D space." [University of Twente](https://www.utwente.nl/), [University of Naples Federico II](https://www.international.unina.it/) (2024).
 

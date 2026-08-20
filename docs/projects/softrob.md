@@ -19,7 +19,7 @@
 
 ## Mentorships
 
-- . Master thesis: "A Magnetically Actuated Bistable Gripper for Minimally Invasive Surgery." [Katholieke Universiteit Leuven](https://www.kuleuven.be/) (2026).
+- Yannick Pâquet. Master thesis: "A Magnetically Actuated Bistable Gripper for Minimally Invasive Surgery." [Katholieke Universiteit Leuven](https://www.kuleuven.be/) (2026).
 
 
 ---
