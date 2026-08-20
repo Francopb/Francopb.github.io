@@ -1,6 +1,8 @@
 ## Mentorships
 
 
+- . Master thesis: "A Magnetically Actuated Bistable Gripper for Minimally Invasive Surgery." [Katholieke Universiteit Leuven](https://www.kuleuven.be/) (2026).
+
 - Corrado Verde. Master thesis: "Design, planning and control of an untethered magnetic microrobot for the autonomous sorting of passive beads in 3D space." [University of Twente](https://www.utwente.nl/), [University of Naples Federico II](https://www.international.unina.it/) (2024).
 
 - Sabrina Visconti. Master thesis: "Exploiting untethered magnetic microrobots for freeform 3D fluidic printing in the controlled vascularization." [University of Twente](https://www.utwente.nl/), [University of Naples Federico II](https://www.international.unina.it/) (2024).
@@ -15,8 +17,8 @@
 ## Teaching
 
 
-- Invited lecturer: "Robotics for Medical Applications." [University of Twente](https://www.utwente.nl/), (2024).
+- Teaching assistant and co-organizer: "Soft Robotics ATHENS course." [Katholieke Universiteit Leuven](https://www.kuleuven.be/kuleuven/), (2025 - 2026).
 
-- Teaching assistant and co-organizer: "Soft Robotics ATHENS course." [Katholieke Universiteit Leuven](https://www.kuleuven.be/kuleuven/), (2024).
+- Invited lecturer: "Robotics for Medical Applications." [University of Twente](https://www.utwente.nl/), (2024).
 
 - Teaching assistant: "Fluid Mechanics and Transfer Processes." [Université Libre de Bruxelles](https://www.ulb.be/), (2019 - 2022).

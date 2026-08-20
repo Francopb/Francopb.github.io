@@ -17,6 +17,10 @@
 
 - Franco N Pinan Basualdo, Benjamin Gorissen.  "Coupling of non-linear inflatables." *Functionality through Nonlinearity Conference*, London, United Kingdom (2025) - _Poster_.
 
+## Mentorships
+
+- . Master thesis: "A Magnetically Actuated Bistable Gripper for Minimally Invasive Surgery." [Katholieke Universiteit Leuven](https://www.kuleuven.be/) (2026).
+
 
 ---
 
