@@ -37,6 +37,8 @@
 
 - Franco N Pinan Basualdo, Benjamin Gorissen.  "Coupling of non-linear inflatables." *Functionality through Nonlinearity Conference*, Leuven, Belgium (2026) - _Poster_.
 
+- Franco N Pinan Basualdo, Benjamin Gorissen.  "Coupling of non-linear inflatables: Island hopping." *RoboSoft*, Kanazawa, Japan (2026) - _Poster_.
+
 - Franco N Pinan Basualdo, Benjamin Gorissen.  "On the coupling of non-linear inflatables and springs: Island-hopping." *APS Global Physics Summit*, Anaheim, United States (2025) - _Presentation_.
 
 - Franco N Pinan Basualdo, Benjamin Gorissen.  "Coupling of non-linear inflatables." *Functionality through Nonlinearity Conference*, London, United Kingdom (2025) - _Poster_.
