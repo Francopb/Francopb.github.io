@@ -35,7 +35,7 @@
 ## Presentations
 
 
-- Franco N Pinan Basualdo, Benjamin Gorissen.  "Coupling of non-linear inflatables." *Functionality through Nonlinearity Conference*, Leuven, Belgium (2026) - _Poster_.
+- Franco N Pinan Basualdo, Benjamin Gorissen.  "Coupling of non-linear inflatables." *Functionality through Nonlinearity Conference*, Leuven, Belgium (2026) - _Co-organization and poster_.
 
 - Franco N Pinan Basualdo, Benjamin Gorissen.  "Coupling of non-linear inflatables: Island hopping." *RoboSoft*, Kanazawa, Japan (2026) - _Poster_.
 
@@ -43,7 +43,7 @@
 
 - Franco N Pinan Basualdo, Benjamin Gorissen.  "Coupling of non-linear inflatables." *Functionality through Nonlinearity Conference*, London, United Kingdom (2025) - _Poster_.
 
-- Yuxin Jin, Franco N Pinan Basualdo, Antonio Marino, Yongfeng Mei, Paolo Robuffo Giordano, Claudio Pacchierotti, Sarthak Misra.  "Graph Neural Network-Based Real-Time 3D Tracking for Micro-Agent Control." *International Conference on Manipulation, Automation and Robotics at Small Scales*, Delft, The Netherlands (2024) - _Presentation_.
+- Yuxin Jin, Franco N Pinan Basualdo, Antonio Marino, Yongfeng Mei, Paolo Robuffo Giordano, Claudio Pacchierotti, Sarthak Misra.  "Graph Neural Network-Based Real-Time 3D Tracking for Micro-Agent Control." *International Conference on Manipulation, Automation and Robotics at Small Scales*, Delft, The Netherlands (2024) - _Presentation_. [doi.org/10.1109/MARSS61851.2024.10612750](https://doi.org/10.1109/MARSS61851.2024.10612750).
 
 - Franco N Piñan Basualdo, Aude Bolopion, Michaël Gauthier, Pierre Lambert.  "Laser-induced thermocapillary manipulation at the air-water interface." *International Conference on Manipulation, Automation and Robotics at Small Scales*, Toronto, Canada (2022) - _Presentation_.
 

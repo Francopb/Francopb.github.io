@@ -9,5 +9,5 @@
 {% for conf in conferences %}
 - {%- if conf.authors %} {{ conf.authors | join(", ") }}. {% endif -%}
 {%- if conf.title %} "{{ conf.title }}." {% endif -%}
-*{{ conf.conference }}*, {{ conf.location }} ({{ conf.year }}){%- if conf.type %} - _{{ conf.type | capitalize }}_{% endif %}.
+*{{ conf.conference }}*, {{ conf.location }} ({{ conf.year }}){%- if conf.type %} - _{{ conf.type | capitalize }}_{% endif %}{% if conf.doi %}. [doi.org/{{ conf.doi }}](https://doi.org/{{ conf.doi }}){% endif %}.
 {% endfor %}
